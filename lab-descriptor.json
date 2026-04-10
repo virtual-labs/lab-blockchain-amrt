@@ -43,7 +43,7 @@
     "name": "Smart Contract",
     "short-name": "smart-contract",
     "repo": "https://github.com/virtual-labs/exp-smart-contract-au",
-    "tag": "v1.1.1",
+    "tag": "v1.1.2",
     "deploy": true
   },
   {
@@ -57,7 +57,7 @@
     "name": "Understand the Syntax and Coding Process of Smart Contracts",
     "short-name": "smart-contract-syntax-coding",
     "repo": "https://github.com/virtual-labs/exp-syntax-and-coding-process-smart-contracts-au",
-    "tag": "v1.1.1",
+    "tag": "v1.1.2",
     "deploy": true
   },
   {
